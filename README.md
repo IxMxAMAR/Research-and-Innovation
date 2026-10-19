@@ -1,4 +1,4 @@
-# Research and Innovation Compilation of My Ideas
+# Research and Innovation
 
 A living collection of research papers, notes, and experiments, organized by domain. Each entry is self-contained: source, compiled paper, figures, and a short summary.
 
