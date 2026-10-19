@@ -13,6 +13,7 @@ A living collection of research papers, notes, and experiments, organized by dom
 | # | Domain | Title | Year |
 |---|---|---|---|
 | 01 | Hardware | [The x16 Ceiling](Hardware/01-The-x16-Ceiling/) — connector, silicon, and latency constraints on memory bandwidth over PCI Express | 2026 |
+| 02 | Hardware | [Zero Resistance, Zero Speedup](Hardware/02-Zero-Resistance/) — why a room-temperature superconductor changes interconnect reach, not latency | 2026 |
 
 ## About
 
@@ -23,10 +24,7 @@ Written by [Amrendra Singh](https://github.com/IxMxAMAR), with research assistan
 ```
 Hardware/
   01-The-x16-Ceiling/
-    The_x16_Ceiling.pdf
-    tex/paper.tex
-    figures/
-    make_figures.py
+  02-Zero-Resistance/
 ```
 
 Each paper folder has its own README with the abstract, key results, and build instructions.
