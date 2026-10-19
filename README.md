@@ -14,6 +14,7 @@ A living collection of research papers, notes, and experiments, organized by dom
 |---|---|---|---|
 | 01 | Hardware | [The x16 Ceiling](Hardware/01-The-x16-Ceiling/) — connector, silicon, and latency constraints on memory bandwidth over PCI Express | 2026 |
 | 02 | Hardware | [Zero Resistance, Zero Speedup](Hardware/02-Zero-Resistance/) — why a room-temperature superconductor changes interconnect reach, not latency | 2026 |
+| 03 | Hardware | [The Width Tax](Hardware/03-The-Width-Tax/) — electrical, package, and thermal limits of bigger PCIe links | 2026 |
 
 ## About
 
@@ -25,6 +26,7 @@ Written by [Amrendra Singh](https://github.com/IxMxAMAR), with research assistan
 Hardware/
   01-The-x16-Ceiling/
   02-Zero-Resistance/
+  03-The-Width-Tax/
 ```
 
 Each paper folder has its own README with the abstract, key results, and build instructions.
